@@ -17,7 +17,7 @@ A fully functional Hotel Room Booking REST API built with FastAPI as part of the
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/fastapi-hotel-booking.git
+git clone https://github.com/Rakshaksa/fastapi-hotel-booking.git
 cd fastapi-hotel-booking
 ```
 
